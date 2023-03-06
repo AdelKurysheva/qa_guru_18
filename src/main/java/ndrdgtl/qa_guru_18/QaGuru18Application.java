@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class QaGuru18Application {
     
     private static String msg = ""Hello, qa_guru!Hello, world";
-
     public static void main(String[] args) {
         System.out.println(msg);
     }
